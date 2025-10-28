@@ -7,4 +7,7 @@ The current homeassistant MacOS app is lacking features and integration and seem
 Native macOS app for Home Assistant dashboards and local sensors (battery, power, and location).
 
 ## Install 
-To Install download MacOS Home assistant.app.zip
+To Install download MacOS Home assistant.app.zip enjoy the app
+
+##
+I do not know if i have uplaoded the files correctly I hope I have.
