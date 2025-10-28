@@ -6,7 +6,5 @@ The current homeassistant MacOS app is lacking features and integration and seem
 
 Native macOS app for Home Assistant dashboards and local sensors (battery, power, and location).
 
-## Install (via Homebrew)
-```bash
-brew tap bobby529/homebrew-tap
-brew install --cask homehub --no-quarantine
+## Install 
+Download the ZIP File
